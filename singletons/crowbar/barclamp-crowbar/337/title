@@ -1,0 +1,1 @@
+[TravisCI] Patch `rake db:fixtures:dump` task to work in Travis
