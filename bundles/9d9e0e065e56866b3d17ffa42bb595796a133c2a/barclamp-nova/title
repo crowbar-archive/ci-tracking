@@ -1,0 +1,1 @@
+fix issues with parsing crowbar.yml files on Ruby 1.9 
