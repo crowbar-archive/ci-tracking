@@ -1,0 +1,1 @@
+compute-node should send ring not only to storages but to proxy too
