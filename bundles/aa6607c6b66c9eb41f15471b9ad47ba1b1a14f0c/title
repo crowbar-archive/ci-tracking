@@ -1,0 +1,1 @@
+barclamp_install: Fix bc_do_install_action (missing parameter) 
