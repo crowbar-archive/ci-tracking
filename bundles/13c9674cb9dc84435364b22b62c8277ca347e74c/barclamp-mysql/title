@@ -1,0 +1,1 @@
+Add .gitignore file to barclamp repo; ignore Gemfile.lock files, etc. 
