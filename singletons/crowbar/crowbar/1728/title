@@ -1,0 +1,1 @@
+doc/devguide/testing: Add missing references to railties:install:migrations rake test
