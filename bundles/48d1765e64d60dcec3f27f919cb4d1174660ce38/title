@@ -1,0 +1,1 @@
+Move to chef11 gem (API from rails app). disable chefspec, it blowsup 
