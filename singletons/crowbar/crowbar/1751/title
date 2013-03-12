@@ -1,0 +1,1 @@
+dev: reload_test_env(): run all rake tasks in a single bundle exec
