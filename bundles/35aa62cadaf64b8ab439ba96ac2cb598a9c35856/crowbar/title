@@ -1,0 +1,1 @@
+Remove network-test-helper.rb from crowbar barclamp and copy it in from network barclamp 
