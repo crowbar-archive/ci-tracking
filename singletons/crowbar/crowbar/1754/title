@@ -1,0 +1,1 @@
+Make sure gemfile_plugin is actually synced to disk before rake task are executed
