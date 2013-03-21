@@ -1,0 +1,1 @@
+Adding openSUSE crowbar builds into dev utility.  Use: ./dev/ build --os opensuse-12.3 
