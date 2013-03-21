@@ -1,0 +1,1 @@
+Enable threading for the web app, and make get_cli and log gathering work as expected. 
