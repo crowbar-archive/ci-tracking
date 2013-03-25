@@ -1,0 +1,1 @@
+Added additional error checking around the mullti-threaded mkfs.ext4 call. 
