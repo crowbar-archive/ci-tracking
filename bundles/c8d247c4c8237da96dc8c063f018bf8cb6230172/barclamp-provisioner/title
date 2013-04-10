@@ -1,0 +1,1 @@
+Update Bluepill recipes fix unwanted restarts of chef-server bits during admin node bringup. 
