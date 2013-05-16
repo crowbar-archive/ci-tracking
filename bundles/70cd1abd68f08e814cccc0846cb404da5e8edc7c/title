@@ -1,0 +1,1 @@
+Defect DE1176: Can't create a new group in Crowbar.  Fixed drag and drop issues and race condition when adding to a group. 
