@@ -1,0 +1,1 @@
+Disable bmc if ipmitool exits with failure
