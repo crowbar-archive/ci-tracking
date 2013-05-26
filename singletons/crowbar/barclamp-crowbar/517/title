@@ -1,0 +1,1 @@
+nodes: Only show IPMI link on node page if it exists
