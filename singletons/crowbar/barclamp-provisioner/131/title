@@ -1,0 +1,1 @@
+controls.sh: Properly exit the outer "control.sh" run
