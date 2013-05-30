@@ -1,0 +1,1 @@
+Fix up the rabbitmq barclamp to make it a little less fragile. 
