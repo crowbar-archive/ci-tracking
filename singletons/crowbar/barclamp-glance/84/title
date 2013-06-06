@@ -1,0 +1,1 @@
+Make glance-registry.conf respect use_syslog attribute too
