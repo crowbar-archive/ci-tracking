@@ -1,0 +1,1 @@
+Fix for DE1208(Unable to login to Horizon if Cinder installed on non-controller machine)
