@@ -1,0 +1,1 @@
+install-chef-suse: Add use_dialog to know if dialog should be called
