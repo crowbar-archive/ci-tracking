@@ -1,0 +1,1 @@
+Remove Sqoop barclamp from Crowbar UI. Sqoop is now fully supported and deployed by Cloudera Manager. 
