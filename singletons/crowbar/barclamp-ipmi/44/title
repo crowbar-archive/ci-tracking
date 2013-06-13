@@ -1,0 +1,1 @@
+Do not fail in ipmi-configure if calls to ipmitool fail
