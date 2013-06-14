@@ -1,0 +1,1 @@
+DE1178: Try to force grub-install to the same device the root filesystem is on. 
