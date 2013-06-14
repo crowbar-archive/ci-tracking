@@ -1,0 +1,1 @@
+Only define SECRET_KEY on SUSE to avoid crash on Ubuntu
