@@ -1,0 +1,1 @@
+The keystone auth_token middleware has been move to keystoneclient 
