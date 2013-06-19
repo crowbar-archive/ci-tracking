@@ -1,0 +1,1 @@
+Explicitly set normal_attrs, fixes deprecation warning
