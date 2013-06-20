@@ -1,0 +1,1 @@
+Fix endpoints when the service only listens on one IP address
