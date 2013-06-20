@@ -1,0 +1,1 @@
+DE1326: Fix misdetected boot device on C8220 when using both AHCI and LSI controllers. 
