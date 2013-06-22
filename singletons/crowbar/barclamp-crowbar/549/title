@@ -1,0 +1,1 @@
+Fix crash in crowbar command line tool when no user/password is defined
