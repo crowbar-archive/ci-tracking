@@ -1,0 +1,1 @@
+Fix to not use AHCI drives for Swift/Cloudera storage when RAID BC is in effect 
