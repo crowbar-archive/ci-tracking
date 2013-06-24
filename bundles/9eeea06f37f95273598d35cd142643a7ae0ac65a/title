@@ -1,0 +1,1 @@
+Comment out set -x to turn off verbose logging during control.sh run 
