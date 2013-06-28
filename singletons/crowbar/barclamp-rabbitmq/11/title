@@ -1,0 +1,1 @@
+Use RbConfig::CONFIG instead of Config::CONFIG
