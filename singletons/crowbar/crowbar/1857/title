@@ -1,0 +1,1 @@
+Don't clear terminal in case of error (i.e. when using '-v')
