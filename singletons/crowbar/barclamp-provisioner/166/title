@@ -1,0 +1,1 @@
+Put kernel.core_pattern in /etc/sysctl.d/core-dump.conf
