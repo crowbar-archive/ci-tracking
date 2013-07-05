@@ -1,0 +1,1 @@
+Fix NodeObject.save to properly remove elements from node
