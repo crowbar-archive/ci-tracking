@@ -1,0 +1,1 @@
+Drop SLES-specific coredump setup in /etc/sysconfig/ulimit
