@@ -1,1 +1,1 @@
-Drop SLES-specific coredump setup in /etc/sysconfig/ulimit
+Install package "ulimit" on SLES to enable coredumps 
