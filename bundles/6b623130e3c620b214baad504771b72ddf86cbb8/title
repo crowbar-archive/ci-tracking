@@ -1,0 +1,1 @@
+Fix up role_requires logic to make automatically adding implicit roles actually work. 
