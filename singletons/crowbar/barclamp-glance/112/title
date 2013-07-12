@@ -1,0 +1,1 @@
+Only use -H -p args with glance when not using keystone
