@@ -1,0 +1,1 @@
+DE1362: Alias name not allowed to be longer than 63 and combination of alias and host cannot exceed 254 chars.  Fix for fix. 
