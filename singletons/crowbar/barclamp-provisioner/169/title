@@ -1,0 +1,1 @@
+Copy pxelinux.0 if original file changed, and fix installation of EFI files for SUSE
