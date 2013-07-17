@@ -1,0 +1,1 @@
+install-chef-suse: Use network config from /etc/crowbar/network.json
