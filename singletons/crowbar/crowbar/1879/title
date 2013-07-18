@@ -1,0 +1,1 @@
+install-chef-suse: Some cleanup + fix re-running the script wrt /etc/resolv.conf
