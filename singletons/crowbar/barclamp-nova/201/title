@@ -1,0 +1,1 @@
+webui: Remove libvirt_type from UI that got added back by accident
