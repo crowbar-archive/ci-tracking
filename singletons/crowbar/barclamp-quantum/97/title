@@ -1,0 +1,1 @@
+Fix "Cannot find a resource matching link[/etc/quantum/plugins/...]" (bnc#830870)
