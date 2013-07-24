@@ -1,0 +1,1 @@
+reintroduce wait_for_pxe_state to fix node state transistions with slow admin nodes
