@@ -1,0 +1,1 @@
+This allows overriding of the repository URLs in the autoyast.xml generated per-node, which means use of an external SMT server is possible.
