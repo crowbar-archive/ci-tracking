@@ -1,0 +1,1 @@
+Add Nic::Vlan.parent method to get the parent interface
