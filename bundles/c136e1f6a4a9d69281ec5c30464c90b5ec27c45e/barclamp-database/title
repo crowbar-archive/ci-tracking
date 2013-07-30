@@ -1,0 +1,1 @@
+Fix incredibly small idle connection timeout in mysql. 
