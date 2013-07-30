@@ -1,0 +1,1 @@
+Added some scripting around the use_pfs and use_virtualenv fields to toggle visibility of use_virtualenv based on value of use_pfs.  Also changed option labels to true/false instead of yes/no to be consistant with rest of barclamps. 
