@@ -1,0 +1,1 @@
+fix for selecting nova-multi-compute-* roles by value in libvirt_type
