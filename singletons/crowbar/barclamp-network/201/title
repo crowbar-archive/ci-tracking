@@ -1,0 +1,1 @@
+Only kill vlan interfaces if they are on the same parent interface
