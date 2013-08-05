@@ -1,0 +1,1 @@
+install-chef-suse: Install nfs_client barclamp if available
