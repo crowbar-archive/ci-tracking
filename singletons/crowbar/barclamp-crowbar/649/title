@@ -1,0 +1,1 @@
+Fix destroy_active again to not use role name as instance name
