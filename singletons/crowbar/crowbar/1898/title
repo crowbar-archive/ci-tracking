@@ -1,0 +1,1 @@
+ensure any ntp settings on admin node are preserved (bnc#837032)
