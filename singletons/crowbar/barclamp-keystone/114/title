@@ -1,0 +1,1 @@
+webui: Also hide SSL section header when not using native frontend
