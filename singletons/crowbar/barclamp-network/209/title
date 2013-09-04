@@ -1,0 +1,1 @@
+Move kill_nic definition before its first use
