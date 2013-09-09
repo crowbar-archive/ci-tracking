@@ -1,0 +1,1 @@
+Provide HOME env variable to crowbar-webserver pill so restart and reboot don't fail. *Temp fix* - will redo later this week. 
