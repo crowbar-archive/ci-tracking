@@ -1,0 +1,1 @@
+CES-336 Fix cinder not to fall silently to local mode if no disks are available 
