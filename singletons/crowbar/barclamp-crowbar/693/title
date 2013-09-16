@@ -1,1 +1,1 @@
-improve exception handling (bnc#840255)
+improve legibility and robustness of some core code, and fix bug with deleted nodes
