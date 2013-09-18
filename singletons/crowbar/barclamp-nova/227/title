@@ -1,0 +1,1 @@
+Remove attempts to reinstall python-keystoneclient from Keystone cookbook into Nova venv
