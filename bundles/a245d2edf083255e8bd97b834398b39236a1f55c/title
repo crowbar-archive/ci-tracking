@@ -1,0 +1,1 @@
+Fixed typo 'scheduler' in javascript that was breaking node selector drag and drop for cinder-scheduler role 
