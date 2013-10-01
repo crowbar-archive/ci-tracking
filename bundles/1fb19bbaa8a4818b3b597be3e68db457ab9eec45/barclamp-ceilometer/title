@@ -1,0 +1,1 @@
+Fix ceilometer smoke test as a few metric tests were failing even though ceilometer was deployed correctly. 
