@@ -1,0 +1,1 @@
+Add update_hook to application_controller, and use it to drive the on_node_change hook. 
