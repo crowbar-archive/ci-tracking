@@ -1,0 +1,1 @@
+Have control.sh mark the node as dead on reboot if Crowbar knows about the node. 
