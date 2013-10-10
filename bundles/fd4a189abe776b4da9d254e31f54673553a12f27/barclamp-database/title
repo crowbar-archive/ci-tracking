@@ -1,0 +1,1 @@
+Mesa 1.6.1 to roxy merge DE1357: Changing mysql attribute, Datadir, causes proposal to fail.  For 1.6 mark field as read only as changing this directory breaks mysql install on Ubuntu.  Need to fix recipe in 1.7 to take AppArmor into consideration as reco
