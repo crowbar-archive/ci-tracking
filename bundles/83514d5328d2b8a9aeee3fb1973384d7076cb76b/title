@@ -1,0 +1,1 @@
+Fix sed script to correctly reconstruct ssh authorized key 
