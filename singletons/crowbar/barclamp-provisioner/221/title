@@ -1,0 +1,1 @@
+add timeout 100 to first boot to ensure that network is up
