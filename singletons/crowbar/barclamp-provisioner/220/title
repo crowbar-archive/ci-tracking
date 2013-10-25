@@ -1,0 +1,1 @@
+Add openstack-{keystone,neutron} Should-Start in SUSE init script for crowbar_join
