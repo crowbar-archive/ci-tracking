@@ -1,0 +1,1 @@
+Run nova-manage db_sync as the nova-user
