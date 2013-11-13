@@ -1,0 +1,1 @@
+Fix snapshot role ordering, and add missing dependency on the daemons gem. 
