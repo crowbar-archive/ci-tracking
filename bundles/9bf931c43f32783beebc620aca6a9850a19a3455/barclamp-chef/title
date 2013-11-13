@@ -1,0 +1,1 @@
+Make sure chef only cares about .json files for data bags. 
