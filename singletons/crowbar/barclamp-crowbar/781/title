@@ -1,0 +1,1 @@
+use attr_accessor instead of defining the methods manually
