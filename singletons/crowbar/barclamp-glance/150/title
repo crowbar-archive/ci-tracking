@@ -1,0 +1,1 @@
+Start at least two Glance API workers, limit it to four in total
