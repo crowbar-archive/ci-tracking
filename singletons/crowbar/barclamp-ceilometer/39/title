@@ -1,1 +1,1 @@
-clear pips, move to template pipeline.yaml and add to ui elements for pipeline intervals, fix smoketest
+improve pfs builds and add ability to configure pipelines
