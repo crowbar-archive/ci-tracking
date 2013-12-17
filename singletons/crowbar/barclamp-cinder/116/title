@@ -1,0 +1,1 @@
+run cinder db-manage as cinder user
