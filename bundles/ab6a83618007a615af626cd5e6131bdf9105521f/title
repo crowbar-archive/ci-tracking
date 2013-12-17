@@ -1,0 +1,1 @@
+Merging fixes from roxy: removed unused pid_directory attribute and fixed bug where image_cache_stall_timeout in gui is ignored 
