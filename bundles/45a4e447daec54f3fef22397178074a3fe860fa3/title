@@ -1,0 +1,1 @@
+Fix for CES-1273: In glance, sql_idle_timeout is configurable in BC GUI, but value is unused 
