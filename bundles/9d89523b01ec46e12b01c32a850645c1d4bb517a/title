@@ -1,0 +1,1 @@
+Merging fix from hydrogen where sql_idle_timeout is configured in the GUI, but is ignored 
