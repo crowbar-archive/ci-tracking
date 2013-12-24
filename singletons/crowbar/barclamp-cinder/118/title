@@ -1,0 +1,1 @@
+Always explicitly set rpc_backend in nova.conf
