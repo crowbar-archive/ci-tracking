@@ -1,0 +1,1 @@
+Avoid re-creating Nova home directory when not in usegitrepo mode
