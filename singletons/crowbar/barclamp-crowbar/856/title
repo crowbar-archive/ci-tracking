@@ -1,0 +1,1 @@
+Fix double render error in NodesController#hit
