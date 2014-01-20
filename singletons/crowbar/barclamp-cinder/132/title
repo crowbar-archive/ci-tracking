@@ -1,0 +1,1 @@
+fix NoSuchOptError raised by glance-scheduler when option is nil
