@@ -1,0 +1,1 @@
+Return all matching roles in NodeObject#active if bc instance is nil
