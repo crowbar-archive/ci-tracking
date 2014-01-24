@@ -1,0 +1,1 @@
+temporarily set secret key_path to /var/chef/data_bags/openstack_data_bag_secret until we've worked out how to create on admin node and push to /etc/chef/ which is default location. 
