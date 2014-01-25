@@ -1,0 +1,1 @@
+Fix crash with boot.looplvm service not being defined
