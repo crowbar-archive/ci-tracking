@@ -1,0 +1,1 @@
+Move contents of ChefObject#chef_init into an initializer
