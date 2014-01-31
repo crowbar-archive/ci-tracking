@@ -1,0 +1,1 @@
+Do not fail on storage nodes if rsync of rings fails
