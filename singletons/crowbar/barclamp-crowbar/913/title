@@ -1,0 +1,1 @@
+Added explicit sprockets gem loading to prevent error with bundler deactivated
