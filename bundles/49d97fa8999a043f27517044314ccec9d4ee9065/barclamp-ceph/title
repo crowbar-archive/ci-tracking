@@ -1,0 +1,1 @@
+Add a basic disk reservation system to CB 2.0, and fix up the Ceph barclamp to use it. 
