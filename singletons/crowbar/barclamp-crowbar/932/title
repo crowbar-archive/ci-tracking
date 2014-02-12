@@ -1,0 +1,1 @@
+[stoney] Added explicit gems to environment.rb and crowbar.yml to prevent version mismatch
