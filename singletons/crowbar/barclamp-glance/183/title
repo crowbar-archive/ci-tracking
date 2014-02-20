@@ -1,0 +1,1 @@
+Restart glance services when ceph.conf changes
