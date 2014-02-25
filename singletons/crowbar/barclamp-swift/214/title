@@ -1,0 +1,1 @@
+Commented out executing block. We can't be sure that swift nodes are ready for populate exactly at this moment.
