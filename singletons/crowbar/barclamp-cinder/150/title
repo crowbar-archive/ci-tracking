@@ -1,0 +1,1 @@
+Fix for the losetup -j /var/lib/cinder/volume.raw no devide found error
