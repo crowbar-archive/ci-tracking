@@ -1,0 +1,1 @@
+Fix: Check for odd number of ceph-mon in proposal
