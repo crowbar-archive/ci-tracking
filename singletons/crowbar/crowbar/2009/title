@@ -1,1 +1,1 @@
-add utility pip-bundler to manage pips of barclamps
+feature: new pip-cache algorithm
