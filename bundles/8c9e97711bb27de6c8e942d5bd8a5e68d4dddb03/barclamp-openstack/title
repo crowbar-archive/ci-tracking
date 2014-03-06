@@ -1,0 +1,1 @@
+Fix unnecessary error messages in log when default['openstack']['apt']['components'] attribute is nil or empty. 
