@@ -1,0 +1,1 @@
+Better handle situation when ntp / chef-server don't reply in crowbar_join
