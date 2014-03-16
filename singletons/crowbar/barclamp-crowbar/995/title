@@ -1,0 +1,1 @@
+Use haproxy public name for public URL when using a cluster
