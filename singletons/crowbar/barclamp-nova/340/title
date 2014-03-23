@@ -1,0 +1,1 @@
+Use strings and not symbols as keys for hashes in migration scripts
