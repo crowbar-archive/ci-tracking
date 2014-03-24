@@ -1,0 +1,1 @@
+Directly call methods instead of using call(:method)
